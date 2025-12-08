@@ -24,6 +24,7 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
   <img src="https://img.shields.io/badge/MVI-5C2D91?style=for-the-badge&logo=architecture&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=design&logoColor=white"/>
   <img src="https://img.shields.io/badge/MultiModule-6D4AFF?style=for-the-badge&logo=module&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebView-990085?style=for-the-badge&logo=design&logoColor=white"/>
 </p>
 
 ### 🔌 Networking & Data
@@ -33,11 +34,13 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Firestore-FF6F00?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/DataStore-673AB7?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-993800?style=for-the-badge&logo=design&logoColor=white"/>
 </p>
 
 ### 🤖 AI / Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase_AI_Logic-4285F4?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-5CD1E5?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"/>
