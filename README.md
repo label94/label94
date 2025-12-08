@@ -2,7 +2,7 @@
 <h1 align="left">👋 안녕하세요, Android 개발자 이진호입니다.</h1>
 
 <p align="left">
-6년 8개월 동안 Android 개발을 경험하며, 단순한 기능 구현이 아니라  
+Android 개발을 경험하며, 단순한 기능 구현이 아니라  
 <strong>구조와 아키텍처 중심의 개발</strong>을 지향해 왔습니다.  
 Compose · MVI · Clean Architecture · Multi-Module 기반으로  
 확장성과 유지보수성을 갖춘 구조를 설계하는 데 강점을 가지고 있습니다.
