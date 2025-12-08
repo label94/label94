@@ -48,21 +48,10 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
 
 ## 📊 GitHub Overview
 
-<!-- GitHub Stats (503 오류 시 이미지 안뜨면 주석 처리 가능) -->
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=label94&show_icons=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=label94&layout=compact&langs_count=6"/>
-</p>
-
-<!-- 만약 503 오류가 자주 뜬다면 아래 대체 블록 사용 -->
-<!--
 <p align="left">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=label94&theme=github"/>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=label94&theme=github"/>
 </p>
--->
-
----
 
 ## 📂 Pinned Projects
 
