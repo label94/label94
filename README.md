@@ -60,9 +60,6 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
 학습용 프로젝트 (Compose · MVI · Multi-Module · Firebase Auth/Firestore · AI Logic 기반)  
 ➡ 구조 중심 Android 개발 학습 목적
 
-### 💠 Hybrid / WebView Architecture 실험 프로젝트  
-JSBridge, WebView 정책 대응, Compose + WebView 통합 구조 연구
-
 ### 💠 Android Multi-Module Template  
 실무 아키텍처 기반의 멀티모듈 템플릿
 
