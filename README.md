@@ -63,7 +63,7 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
 ### 💠 Android Multi-Module Template  
 실무 아키텍처 기반의 멀티모듈 템플릿
 
-### 💠 실험실 
+### 💠 Lab 
 기술적 궁금증과 학습이 필요한 영역들을 실험하는 전용 공간
 
 > *각 프로젝트는 README에 아키텍처, 흐름도, 기술 적용 내용이 상세히 작성되어 있습니다.*
