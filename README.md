@@ -42,7 +42,6 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
   <img src="https://img.shields.io/badge/Firebase_AI_Logic-4285F4?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-5CD1E5?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"/>
 </p>
 
