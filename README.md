@@ -54,9 +54,9 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=label94&theme=github"/>
 </p>
 
-## 📂 Pinned Project
+## 📂 Modern Diary App(Pinned Project)
 
-### 💠 Modern Diary App  
+### 💠 Diary App  
 학습용 프로젝트 (Compose · MVI · Multi-Module · Firebase Auth/Firestore · AI Logic 기반)  
 ➡ 구조 중심 Android 개발 학습 목적
 
