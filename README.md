@@ -46,6 +46,14 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
   <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white"/>
 </p>
 
+### 🗣️ Communication & Collaboration
+<p align="left">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 GitHub Overview
