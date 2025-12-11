@@ -25,6 +25,7 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=design&logoColor=white"/>
   <img src="https://img.shields.io/badge/MultiModule-6D4AFF?style=for-the-badge&logo=module&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebView-990085?style=for-the-badge&logo=design&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hilt-4169E1?style=for-the-badge&logo=design&logoColor=white"/>
 </p>
 
 ### 🔌 Networking & Data
