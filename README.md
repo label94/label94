@@ -106,7 +106,7 @@ Compose · MVI · Clean Architecture · Multi-Module 기반으로
 ## 📬 Contact
 
 📧 Email: **label94@naver.com**  
-🐙 GitHub: **https://github.com/label94**
+🐙 GitHub: **https://github.com/label94**  
 🔹 포트폴리오 : **https://github.com/label94/label94/releases/download/release%2Fportfolio%2Fv3/LeeJinHo_portfolio.pdf**
 
 ---
